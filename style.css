@@ -12,40 +12,48 @@ li {
     font-family: times;
     font-size: 28pt;
 }
-.lg {
-    color: #95989A;
-    text-decoration: none;
-}
-.lg-active {
-    color: black;
-    text-decoration: underline;
+li.top-nav {
+    padding: 5% 30pt;
 }
 
 /*header*/
+#logo {
+    position: fixed;
+    width: 100vw;
+    height: 75px;
+    background-color: #EAEAE2;
+    display: block;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    z-index: 2;
+}
+ #F, #S {
+    display: inline-block;
+    font-size: 36pt;
+    font-family: helvetica neue;
+     color: #95989A;
+}
+ #F {
+    font-weight: 700;
+}
+#S {
+    font-weight: 100;
+    }
 #filip {
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    position: relative;
+    padding-top: 75px;
+    z-index: 1;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 #row_1 {
     display: block;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 3%;
 }
-    #F, #S {
-        display: inline-block;
-        font-size: 36pt;
-        font-family: helvetica neue;
-        color: #95989A;
-    }
-    #F {
-        font-weight: 700;
-    }
-    #S {
-        font-weight: 100;
-    }
-    .top-nav {
-        font-family: helvetica neue;
-        color: #95989A;
-    }
+.top-nav {
+    font-family: helvetica neue;
+    color: #95989A;
+}
 /*body*/
 .container-fluid {
     background-color: #EAEAE2;
