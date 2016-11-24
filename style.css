@@ -84,15 +84,19 @@ a:active {
         margin: 2%;
     }
 }
-    #tile_2 {
-        background-image: url("img/tile_2.svg");
-    }
-    #tile_3 {
-        background-image: url("img/tile_3.svg");
-    }
-    #tile_4 {
-        background-image: url("img/tile_4.svg");
-    }
+#tile_1 {
+    background-color: white;
+     background-image: url("img/tile_1.svg");
+}
+ #tile_2 {
+    background-image: url("img/tile_2.svg");
+   }
+ #tile_3 {
+    background-image: url("img/tile_3.svg");
+   }
+ #tile_4 {
+    background-image: url("img/tile_4.svg");
+ }
 
 /*footer*/
 footer {
