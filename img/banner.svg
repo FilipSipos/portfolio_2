@@ -1,0 +1,109 @@
+<svg id="Group_160" data-name="Group 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1627 -564 375 218">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-9 {
+        fill: #05fefe;
+        font-family: Cabin-Medium, Cabin;
+        font-weight: 500;
+        opacity: 0.2;
+      }
+
+      .cls-3 {
+        font-size: 226px;
+      }
+
+      .cls-4 {
+        font-size: 46px;
+        font-family: Times-Roman, Times;
+      }
+
+      .cls-5 {
+        fill: #30a9fa;
+        font-size: 10px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #95989a;
+        font-size: 15px;
+      }
+
+      .cls-6 {
+        font-family: HelveticaNeue-Thin, Helvetica Neue;
+        font-weight: 200;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        font-size: 70px;
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_196);
+      }
+
+      .cls-11 {
+        filter: url(#Rectangle_195);
+      }
+    </style>
+    <filter id="Rectangle_195" x="1624" y="-565" width="381" height="224" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_196" x="1624" y="-565" width="381" height="224" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g class="cls-11" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <rect id="Rectangle_195-2" data-name="Rectangle 195" class="cls-1" width="375" height="218" transform="translate(0 47)"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <g class="cls-10" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <rect id="Rectangle_196-2" data-name="Rectangle 196" class="cls-1" width="375" height="218" transform="translate(0 46)"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Group_159" data-name="Group 159">
+    <g id="Group_158" data-name="Group 158">
+      <rect id="Rectangle_194" data-name="Rectangle 194" class="cls-1" width="375" height="218" transform="translate(1627 -564)"/>
+      <g id="Mask_Group_18" data-name="Mask Group 18" class="cls-2" transform="translate(1627 -611)">
+        <text id="My" class="cls-3" transform="translate(-51 326)"><tspan x="0" y="0">My</tspan></text>
+      </g>
+      <g id="Group_157" data-name="Group 157" transform="translate(1646 -564)">
+        <g id="Group_155" data-name="Group 155" transform="translate(83 5.813)">
+          <text id="_filip" data-name="~filip" class="cls-4" transform="translate(0 70)"><tspan x="0" y="0">~filip</tspan></text>
+          <text id="noun_fil·lip" data-name="noun fil·lip" class="cls-5" transform="translate(29.095 80.203)"><tspan x="0" y="0">noun fil·lip</tspan></text>
+        </g>
+        <g id="Group_156" data-name="Group 156">
+          <text id="Simple_Definition_of_filip" data-name="Simple Definition of filip" class="cls-6" transform="translate(111.171 104.598)"><tspan x="0" y="0">Simple Definition of filip</tspan></text>
+          <text id=":_an_added_part_or_feature_that_makes_somthing_more_interesting_or_exciting." data-name=": an added part or feature that makes somthing more interesting or exciting." class="cls-7" transform="translate(111.171 107.383)"><tspan x="0" y="14">: an added part or feature </tspan><tspan x="0" y="31">that makes somthing more </tspan><tspan x="0" y="48">interesting or exciting.</tspan></text>
+        </g>
+      </g>
+      <g id="Mask_Group_19" data-name="Mask Group 19" class="cls-8" transform="translate(1627 -610)">
+        <text id="NAME" class="cls-9" transform="translate(204 79)"><tspan x="0" y="0">NAME</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="902 -1698 874 353">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #95989a;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #05fefe;
+        font-size: 304px;
+        font-family: Cabin-Medium, Cabin;
+        font-weight: 500;
+        opacity: 0.2;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_63" data-name="Rectangle 63" class="cls-1" width="874" height="353" transform="translate(3009 -1698)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_17" data-name="Mask Group 17" class="cls-2" transform="translate(-2107)">
+    <text id="NAME" class="cls-3" transform="translate(3131 -1459)"><tspan x="0" y="0">NAME</tspan></text>
+  </g>
+</svg>
