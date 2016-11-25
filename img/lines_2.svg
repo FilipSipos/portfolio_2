@@ -1,4 +1,4 @@
-<svg id="Symbol_10_1" data-name="Symbol 10 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="-7446 -2423 4000 15680">
+<svg id="Symbol_11_1" data-name="Symbol 11 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="-7446 -2423.5 4000 15680.5">
   <defs>
     <style>
       .cls-1, .cls-3 {
@@ -16,9 +16,10 @@
     </style>
   </defs>
   <rect id="Rectangle_201" data-name="Rectangle 201" class="cls-1" width="4000" height="15680" transform="translate(-7446 -2423)"/>
-  <path id="Path_183" data-name="Path 183" class="cls-2" d="M9.8,0V13295.5" transform="translate(-7182.295 -2423)"/>
-  <line id="Line_184" data-name="Line 184" class="cls-3" x1="815" transform="translate(-7172.5 -478.5)"/>
-  <line id="Line_185" data-name="Line 185" class="cls-3" x1="815" transform="translate(-7172.5 3305.5)"/>
-  <line id="Line_186" data-name="Line 186" class="cls-3" x1="815" transform="translate(-7172.5 7088.5)"/>
-  <line id="Line_187" data-name="Line 187" class="cls-3" x1="815" transform="translate(-7172.5 10872.5)"/>
+  <path id="Path_183" data-name="Path 183" class="cls-2" d="M9.8,0V12055.5" transform="translate(-7282.295 -2423)"/>
+  <line id="Line_184" data-name="Line 184" class="cls-3" x1="815" transform="translate(-7272.5 -478.5)"/>
+  <line id="Line_188" data-name="Line 188" class="cls-3" x1="68" transform="translate(-7272.5 -2422.5)"/>
+  <line id="Line_185" data-name="Line 185" class="cls-3" x1="815" transform="translate(-7272.5 2891.5)"/>
+  <line id="Line_186" data-name="Line 186" class="cls-3" x1="815" transform="translate(-7272.5 6262.5)"/>
+  <line id="Line_187" data-name="Line 187" class="cls-3" x1="815" transform="translate(-7272.5 9632.5)"/>
 </svg>
