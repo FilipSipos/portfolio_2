@@ -19,33 +19,35 @@
     <img class="img-responsive" id="banner" src="img/filip.png" alt="">
     <img class="img-responsive" id="logo" src="img/FILIPSIPOS.svg" alt="">
     <img class="img-responsive" id="lines_1" src="img/lines_1.svg" alt="">
-</header><!-- /header -->
+</header>
 <body>
     <div class="container-fluid">
         <div id="row_1">
             <ul class="top-nav">
-                <li class="top-nav"><a href="#row_2" title="">PORTFOLIO</a></li>
-                <li class="top-nav"><a href="#row_2" title="">PROFILE</a></li>
-                <li class="top-nav"><a href="#row_2" title="">WRITINGS</a></li>
+                <li class="top-nav"><a id="port" href="#row_2" title="">PORTFOLIO</a></li>
+                <li class="top-nav"><a href="#row_3" title="">PROFILE</a></li>
+                <li class="top-nav"><a href="#row_4" title="">WRITINGS</a></li>
             </ul>
         </div>
         <div class="row" id="row_2">
-            <div class="tile col-sm-12 col-md-5 col-md-offset-1">
+            <img class="background" id="lines_2" src="img/lines_2.svg" alt="">
+            <div class="tile col-sm-11 col-sm-offset-1 col-md-5 col-md-offset-1">
                 <img class="sizer" id="tile_1" src="img/sizer.svg" alt="">
             </div>
-            <div class="tile col-sm-12 col-md-5">
+            <div class="tile col-sm-11 col-sm-offset-1 col-md-5">
                 <img class="sizer" id="tile_2" src="img/sizer.svg" alt="">
             </div>
-            <div class="tile col-sm-12 col-md-5 col-md-offset-1">
+            <div class="tile col-sm-11 col-sm-offset-1 col-md-5 col-md-offset-1">
                 <img class="sizer" id="tile_3" src="img/sizer.svg" alt="">
             </div>
-            <div class="tile col-sm-12 col-md-5">
+            <div class="tile col-sm-11 col-sm-offset-1 col-md-5">
                 <img class="sizer" id="tile_4" src="img/sizer.svg" alt="">
             </div>
         </div>
     </div>
     <script>
         $('.row').hide();
+        $('#lines_2').hide();
         $('.top-nav>li>a').click(function(event){
             event.preventDefault();
             $('#banner').addClass('hide');
@@ -55,6 +57,11 @@
             $('.row').hide();
             $(rowId).show();
         });
+
+        $('#port').click(function(event){
+            $('#lines_2').show();
+        });
+
         $('#logo').click(function(event){
             $('#banner').removeClass('hide');
         });
