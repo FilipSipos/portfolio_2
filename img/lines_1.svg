@@ -1,0 +1,19 @@
+<svg id="Group_167" data-name="Group 167" xmlns="http://www.w3.org/2000/svg" viewBox="-2709 -3015 4000 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_200" data-name="Rectangle 200" class="cls-1" width="4000" height="199.667" transform="translate(-2709 -3015)"/>
+  <line id="Line_178" data-name="Line 178" class="cls-2" x2="2500" transform="translate(-1958.5 -2914.833)"/>
+  <line id="Line_182" data-name="Line 182" class="cls-2" y2="99.834" transform="translate(541.5 -2914.833)"/>
+  <line id="Line_181" data-name="Line 181" class="cls-2" y2="99.834" transform="translate(-1958.5 -2914.833)"/>
+  <line id="Line_180" data-name="Line 180" class="cls-2" y2="199.667" transform="translate(-708.5 -3014.667)"/>
+</svg>

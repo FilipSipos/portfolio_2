@@ -45,8 +45,14 @@ a:active {
 #logo {
     position: relative;
     display: block;
-    max-height: 15vh;
-    padding-top: 10vh;
+    margin: 0 auto;
+    max-width: 35vw;
+    max-height: 12vh;
+    padding-top: 6vh;
+}
+#lines_1 {
+    margin: 0 auto;
+    max-width: 1200px;
 }
 #row_1 {
     display: block;
@@ -54,7 +60,6 @@ a:active {
     max-height: 10vh;
 }
 .top-nav {
-    padding-top: 5vh;
     font-family: helvetica neue;
     color: #95989A;
 }
