@@ -1,32 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="438 4280 750 750">
+<svg id="Symbol_8_1" data-name="Symbol 8 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="-341 4831 750 750">
   <defs>
     <style>
       .cls-1 {
-        fill: none;
+        fill: #fff;
       }
 
       .cls-2 {
-        font-size: 63px;
-        font-family: HelveticaNeue-UltraLight, Helvetica Neue;
-        font-weight: 100;
+        opacity: 0.159;
       }
 
       .cls-3 {
-        font-size: 80px;
+        font-size: 60px;
+      }
+
+      .cls-3, .cls-4, .cls-8 {
+        font-family: HelveticaNeue-Thin, Helvetica Neue;
+        font-weight: 200;
+      }
+
+      .cls-4 {
+        font-size: 28px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-7 {
+        fill: #d7d7d7;
+        font-size: 435px;
+      }
+
+      .cls-7, .cls-9 {
         font-family: HelveticaNeue-CondensedBold, Helvetica Neue;
         font-weight: 700;
       }
 
-      .cls-4 {
-        font-size: 110px;
+      .cls-8 {
+        font-size: 77px;
       }
     </style>
   </defs>
-  <g id="Group_51" data-name="Group 51" transform="translate(238 3366)">
-    <rect id="Rectangle_58" data-name="Rectangle 58" class="cls-1" width="750" height="750" transform="translate(200 914)"/>
-    <g id="Group_50" data-name="Group 50" transform="translate(29 -88)">
-      <text id="the" class="cls-2" transform="translate(508 1335)"><tspan x="0" y="0">the</tspan></text>
-      <text id="uxPROCESS" class="cls-3" transform="translate(305 1454)"><tspan x="0" y="0">ux</tspan><tspan class="cls-4" y="0">PROCESS</tspan></text>
+  <rect id="Rectangle_60" data-name="Rectangle 60" class="cls-1" width="750" height="750" transform="translate(-341 4831)"/>
+  <rect id="Rectangle_113" data-name="Rectangle 113" class="cls-2" width="750" height="198" transform="translate(-341 5383)"/>
+  <g id="Group_133" data-name="Group 133" transform="translate(1160 232)">
+    <text id="It_s_all_about_getting_to_the_core." data-name="It’s all about getting to
+the core." class="cls-3" transform="translate(-1400 5236)"><tspan x="0" y="0">It’s all about getting to</tspan><tspan x="0" y="73">the core.</tspan></text>
+    <g id="Group_132" data-name="Group 132" transform="translate(-5641 560)">
+      <g id="Group_131" data-name="Group 131" transform="translate(17 77)">
+        <text id="read_more" data-name="read more" class="cls-4" transform="translate(4641 4679)"><tspan x="0" y="0">read more</tspan></text>
+        <path id="Path_16" data-name="Path 16" class="cls-5" d="M0,2H118.12" transform="translate(4641.5 4678.5)"/>
+      </g>
     </g>
+  </g>
+  <rect id="Rectangle_114" data-name="Rectangle 114" class="cls-6" width="750" height="552" transform="translate(-341 4831)"/>
+  <g id="Group_134" data-name="Group 134" transform="translate(9 -54)">
+    <text id="UX" class="cls-7" transform="translate(-209 5322)"><tspan x="0" y="0">UX</tspan></text>
+    <text id="thePROCESS" class="cls-8" transform="translate(-167 5189)"><tspan x="0" y="0">the</tspan><tspan class="cls-9" y="0">PROCESS</tspan></text>
   </g>
 </svg>
