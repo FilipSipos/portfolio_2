@@ -1,0 +1,26 @@
+<svg id="Symbol_12_1" data-name="Symbol 12 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="2122.755 4153.564 4000.245 2250.871">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bec0bd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <g id="Group_171" data-name="Group 171">
+    <g id="Group_170" data-name="Group 170">
+      <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-1" width="4000" height="2250" transform="translate(2123 4154)"/>
+      <path id="Path_184" data-name="Path 184" class="cls-2" d="M2123,4154,6108.445,6398.384"/>
+      <path id="Path_185" data-name="Path 185" class="cls-2" d="M2123,6405.471,6114.1,4159.883" transform="translate(0 -1.471)"/>
+    </g>
+    <path id="Path_186" data-name="Path 186" class="cls-3" d="M3699.5,5041.35v475.228l421.664-237.844Z" transform="translate(212.5 -0.35)"/>
+  </g>
+</svg>
