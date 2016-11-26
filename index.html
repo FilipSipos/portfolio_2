@@ -29,7 +29,7 @@
                 <li class="top-nav"><a href="#row_4" title="">WRITINGS</a></li>
             </ul>
         </div>
-        <div class="row" id="row_2">
+        <div class="row col-sm-12" id="row_2">
             <img class="background" id="lines_2" src="img/lines_2.svg" alt="">
             <div class="tile col-sm-11 col-sm-offset-1">
                 <img class="sizer" id="tile_1" src="img/sizer.svg" alt="">
@@ -50,7 +50,6 @@
         $('#lines_2').hide();
         $('.top-nav>li>a').click(function(event){
             event.preventDefault();
-            $('#banner').addClass('hide');
             $('.top-nav>li>a').removeClass('selected');
             $(this).addClass('selected');
             var rowId = $(this).attr('href');
@@ -58,13 +57,24 @@
             $(rowId).show();
         });
 
+        $('.top-nav>li>a').click(function(event) {
+            $('#banner').hide('fast',function() {
+                //Animation complete.
+                });
+        });
+
         $('#port').click(function(event){
             $('#lines_2').show();
         });
 
-        $('#logo').click(function(event){
-            $('#banner').removeClass('hide');
+        $("#logo").click(function() {
+        $("#banner").toggle("slow", function() {
+         // Animation complete.
+            });
         });
+        /*$('#logo').click(function(event){
+           $('#banner').removeClass('hide');
+        });*/
 
     </script>
     <script src="script.js" type="text/javascript" charset="utf-8" async defer></script>

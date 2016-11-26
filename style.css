@@ -15,9 +15,6 @@ li {
     font-family: times;
     font-size: 28pt;
 }
-/*li.top-nav {
-    padding: 0 5vw;
-}*/
 .top-nav {
     list-style: none;
     margin: 0 auto;
@@ -38,16 +35,13 @@ li {
 a {
     color: gray !important;
 }
-a:focus {
-    color: black !important;
-}
 a:hover {
-    color: black !important;
+    color: #05FEFE !important;
 }
-a:active {
+.selected {
     color: black !important;
+    text-decoration: underline !important;
 }
-
 .hide {
     display: none;
 }
@@ -60,6 +54,7 @@ a:active {
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 #logo {
+    cursor: pointer;
     position: relative;
     display: block;
     margin: 0 auto;
@@ -71,13 +66,6 @@ a:active {
     margin: 0 auto;
     max-width: 1200px;
 }
-#lines_2 {
-    margin-top: -1%;
-    padding: 0;
-    width: 80%;
-    position: absolute;
-    left: 10%;
-}
 #row_1 {
     display: block;
     text-align: center;
@@ -87,17 +75,38 @@ a:active {
     font-family: helvetica neue;
     color: #95989A;
 }
+/*body*/
 .container {
     min-height: 60vh;
+    max-width: 1200px;
     background-color: #EAEAE2;
     padding-bottom: 10%;
 }
 #row_2 {
     display: block;
 }
-.col-sm-12.col-md-5 {
+.col-sm-12 {
     padding: 0;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+    #lines_2 {
+        margin-top: -2%;
+        padding: 0;
+        width: 100%;
+        position: absolute;
+        left: -5%;
+    }
+}
+@media only screen and (min-device-width: 768px) {
+    #lines_2 {
+        margin-top: -1.2%;
+        padding: 0;
+        width: 100%;
+        position: absolute;
+    }
+}
+
 .sizer {
     margin-top: 5%;
     max-width: 1200px;
