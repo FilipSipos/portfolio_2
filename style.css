@@ -211,6 +211,7 @@ hr {
 footer {
     position: relative;
     margin-top: 25vh;
+    width: 100vw;
     display: inline-block;
     background-color: #EAEAE2;
     padding-top: 5%;
