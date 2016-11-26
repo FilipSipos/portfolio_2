@@ -129,16 +129,16 @@ a:hover {
 }
 #tile_1 {
     background-color: white;
-    background-image: url("img/tile_1.svg");
+    background-image: url("../img/tile_1.svg");
 }
  #tile_2 {
-    background-image: url("img/tile_2.svg");
+    background-image: url("../img/tile_2.svg");
    }
  #tile_3 {
-    background-image: url("img/tile_3.svg");
+    background-image: url("../img/tile_3.svg");
    }
  #tile_4 {
-    background-image: url("img/tile_4.svg");
+    background-image: url("../img/tile_4.svg");
  }
 
 /*profile*/
