@@ -62,7 +62,6 @@ a:hover {
     display: block;
     margin: 0 auto;
     max-height: 70vh;
-    max-width: 1300px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 #logo {
@@ -115,6 +114,9 @@ a:hover {
         width: 100%;
         position: absolute;
     }
+    #banner {
+        max-width: 1300px;
+    }
 }
 
 .sizer {
@@ -146,9 +148,9 @@ a:hover {
 }
 /*writings*/
 #date_selector {
-    height: 15vh;
     width: 80vw;
     margin: 3vh auto;
+    padding-bottom: 1.5%;
     max-width: 1300px;
     background-color: white;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
