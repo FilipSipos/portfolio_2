@@ -148,6 +148,27 @@ header {
 }
 #time-line {
     padding-top: 5%;
+    padding-bottom: 15%;
+}
+#twenty {
+    display: inline;
+    float: left;
+    padding: 0 15% 0 0;
+    width: 50%;
+}
+#skyline {
+    width: 100%;
+    padding-top: 5%;
+}
+#row_6 {
+    padding: 0 !important;
+}
+#row_7 {
+   padding: 10% 15%;
+    background: #fff;
+}
+#apple-pay {
+    width: 100%;
 }
 /*footer*/
 footer {

@@ -1,0 +1,54 @@
+<svg id="_2020" data-name="2020" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3052 -2156 766 567">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #95989a;
+        stroke-width: 1px;
+        opacity: 0.378;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        font-size: 781px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: HelveticaNeue-UltraLight, Helvetica Neue;
+        font-weight: 100;
+      }
+
+      .cls-4 {
+        font-size: 522px;
+      }
+
+      .cls-5 {
+        font-size: 400px;
+        font-family: HelveticaNeue-CondensedBlack, Helvetica Neue;
+        font-weight: 800;
+      }
+
+      .cls-6 {
+        font-size: 408px;
+        font-family: HelveticaNeue-CondensedBold, Helvetica Neue;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-1" width="766" height="567" transform="translate(3052 -2156)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_22" data-name="Mask Group 22" class="cls-2">
+    <g id="Group_171" data-name="Group 171" transform="translate(-10 1)">
+      <text id="_2" data-name="2" class="cls-3" transform="translate(3025 -1604)"><tspan x="0" y="0">2</tspan></text>
+      <text id="_0" data-name="0" class="cls-4" transform="translate(3457 -2164) rotate(90)"><tspan x="0" y="0">0</tspan></text>
+      <g id="Group_170" data-name="Group 170" transform="translate(-8 9)">
+        <text id="_2-2" data-name="2" class="cls-5" transform="translate(3437 -1612)"><tspan x="0" y="0">2</tspan></text>
+        <text id="_0-2" data-name="0" class="cls-6" transform="translate(3645 -1609)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
