@@ -163,12 +163,31 @@ header {
 #row_6 {
     padding: 0 !important;
 }
-#row_7 {
-   padding: 10% 15%;
-    background: #fff;
-}
+
 #apple-pay {
     width: 100%;
+}
+#row_7 {
+   padding: 10% 15%;
+   background: #fff;
+}
+#quote {
+    display: inline;
+    float: right;
+    font-size: 3em !important;
+    font-weight: 700 !important;
+    font-style: italic;
+    text-align: center;
+}
+#row_8 {
+    padding: 0 !important;
+}
+#affinity {
+    width: 100%;
+}
+#row_9 {
+    padding: 10% 15%;
+    background: #fff;
 }
 /*footer*/
 footer {
