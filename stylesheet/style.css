@@ -1,8 +1,17 @@
 body, header {
      background-color: #E9EDEF !important;
 }
+.uppercase {
+    text-transform: uppercase !important;
+}
 h1 {
     font-size: 3em !important;
+}
+h2 {
+    font-size: 2.5em !important;
+    font-weight: 500 !important;
+    font-stretch: condensed !important;
+    line-height: 1.3 !important;
 }
 h6 {
     font-size: 1.5em !important;
@@ -10,7 +19,8 @@ h6 {
     font-style: italic;
 }
 p {
-    font-size: 1.5em !important;
+    font-size: 1.7em !important;
+    line-height: 1.5 !important;
 }
 ul {
     text-decoration: none;
@@ -142,13 +152,68 @@ a:hover {
  }
 
 /*profile*/
-.section {
-    border: 1px solid red;
-    height: 50vh;
-    width: 100vw;
+#row_3 {
     margin: 0 auto;
+    padding-top: 5%;
     max-width: 1300px;
 }
+.section {
+    display: block;
+    border: 1px solid red;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+#sec_2 {
+    background: #fff;
+    padding: 5% 15% 3%;
+}
+#sec_3 {
+    background: #fff;
+    padding: 0 15% 10%;
+    display: inline-block;
+}
+.padd {
+    padding: 0 !important;
+}
+#cv {
+    display: inline-block;
+    width: 100%;
+}
+.icon {
+    display: inline-block !important;
+    width: 30%;
+    padding-right: 3%;
+}
+.button {
+    display: block;
+    text-align: center;
+    padding: 3.5%;
+    border-radius: 5px;
+}
+.button:hover {
+     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+p.bt {
+    margin: 0 auto;
+}
+#email-button {
+    float: right;
+    margin-top: 5%;
+    width: 100%;
+    background: #000;
+    color: #fff;
+}
+#LinkedIn-button {
+    float: right;
+    width: 100%;
+    background: #05FEFE;
+    color: #000;
+}
+#sec_4 {
+    margin-top: 5%;
+}
+
 /*writings*/
 #date_selector {
     width: 80vw;
