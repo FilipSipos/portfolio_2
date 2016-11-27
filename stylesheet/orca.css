@@ -1,5 +1,5 @@
 body {
-     background-color: #EAEAE2 !important;
+     background-color: #FAFAFA !important;
 }
 h1 {
     font-size: 5em !important;
@@ -25,8 +25,10 @@ h6 {
 }
 p {
     font-size: 1.5em !important;
+    line-height: 1.5 !important;
 }
-ul {
+
+ul.social {
     text-decoration: none;
     list-style-type: none;
     display: inline-block;
@@ -34,7 +36,7 @@ ul {
     padding: 0;
     color: #95989A;
 }
-li {
+ul.social li {
     display: inline-block;
     padding: 5% 10pt;
     font-family: times;
@@ -113,7 +115,22 @@ header {
     top: 36%;
     left: 4%;
 }
-
+#row_3 {
+    position: relative;
+    background: #fff;
+    padding: 10% 15%;
+}
+#iphones {
+    display: block;
+    margin: 10% auto;
+    max-width: 65%;
+}
+#row_4 {
+    background: #EAEAE2;
+}
+#three-iphones {
+    width: 100%;
+}
 /*footer*/
 footer {
     position: relative;
