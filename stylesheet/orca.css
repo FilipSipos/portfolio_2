@@ -1,6 +1,9 @@
 body {
      background-color: #E9EDEF !important;
 }
+.uppercase {
+    text-transform: uppercase !important;
+}
 h1 {
     font-size: 5em !important;
     font-weight: 700 !important;
