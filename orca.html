@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>UXreimagined</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheet/orca.css" media="screen" />
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -15,19 +15,29 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
-<header id="header">
+<header id="header-project">
     <img class="img-responsive" id="banner" src="img/filip.png" alt="">
-    <img class="img-responsive" id="logo" src="img/FILIPSIPOS.svg" alt="">
-    <img class="img-responsive" id="lines_1" src="img/lines_1.svg" alt="">
+    <div class="nav">
+        <div id="back-button">
+            <a id="back" href="index.html" title="">
+                <img id="back-button" src="img/back_button.png" alt="">
+            </a>
+        </div>
+        <img class="img-responsive" id="logo" src="img/logo_gray.svg" alt="">
+    </div>
 </header>
 <body>
-    <div class="container">
-        <div id="row_1">
-            <ul class="top-nav">
-                <li class="top-nav"><a id="port" href="#row_2" title="">PORTFOLIO</a></li>
-                <li class="top-nav"><a href="#row_3" title="">PROFILE</a></li>
-                <li class="top-nav"><a href="#row_4" title="">WRITINGS</a></li>
-            </ul>
+    <div class="container-fluid">
+        <div class="col-sm-12" id="row_1">
+            <h1>ORCA PLUS</h1>
+            <h2>The ORCA card is all you need to pay your fare on buses and trains in the Puget Sound region.</h2>
+            <h5>After you load E-purse (electronic purse) value or a monthly pass on it, your ORCA card works like cash or a pass, automatically tracking the value of different fares and transfers so you don’t have to.</h5>
+        </div>
+        <div class="col-sm-12" id="row_2">
+            <img id="orca-card" src="img/orca_cards.svg" alt="">
+            <div id="box_1">
+                <img id="iphone" src="img/iPhone_Orca.svg" alt="">
+            </div>
         </div>
     </div>
     <script>
