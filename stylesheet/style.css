@@ -1,5 +1,5 @@
 body, header {
-     background-color: #EAEAE2 !important;
+     background-color: #E9EDEF !important;
 }
 h1 {
     font-size: 3em !important;
@@ -89,7 +89,7 @@ a:hover {
 /*body*/
 .container {
     max-width: 1200px;
-    background-color: #EAEAE2;
+    background-color: #E9EDEF;
 }
 #row_2 {
     display: block;
@@ -216,10 +216,10 @@ footer {
     margin-top: 25vh;
     width: 100vw;
     display: inline-block;
-    background-color: #FAFAFA;
+    background-color: #E9EDEF;
     padding-top: 5%;
     text-align: center;
-    box-shadow: 0 -10px 20px rgba(0,0,0,0.19), 0 -6px 6px rgba(0,0,0,0.23);
+    /*box-shadow: 0 -10px 20px rgba(0,0,0,0.19), 0 -6px 6px rgba(0,0,0,0.23);*/
 }
 #email_bottom {
         display: block;
