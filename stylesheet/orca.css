@@ -131,6 +131,23 @@ header {
 #three-iphones {
     width: 100%;
 }
+#row_5 {
+    padding: 10% 15%;
+    background: #fff;
+}
+.scope-p {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.two-weeks {
+    display: inline;
+    float: right;
+    padding:0 15%;
+    width: 50%;
+}
+#time-line {
+    padding-top: 5%;
+}
 /*footer*/
 footer {
     position: relative;
