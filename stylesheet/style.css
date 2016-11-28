@@ -256,7 +256,7 @@ p.bt {
     color: #000;
 }
 #sec_9 {
-    padding: 1% 5% 0.5%;
+    padding: 1% 5% 0;
     background: #fafafa;
     color: #000;
 }
@@ -265,7 +265,22 @@ p.bt {
 }
 #sec_11 {
     padding: 1% 5% 5%;
+    background: #000;
+    color: #fff;
 }
+#sec_12, #sec_14 {
+    padding: 1% 5% 0;
+}
+#video-wraper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+}
+.vid {
+    margin-bottom: 2%;
+}
+
 
 
 /*writings*/
