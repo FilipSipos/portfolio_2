@@ -212,7 +212,14 @@ header {
 #row_12 {
     padding: 10% 15%;
     background: #fff;
-
+}
+#first-tension {
+    text-align: center;
+    padding: 5% 0;
+}
+#row_13 {
+    padding: 10% 15%;
+    background: #fff;
 }
 
 
