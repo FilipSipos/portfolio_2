@@ -210,7 +210,7 @@ header {
     padding: 0 !important;
 }
 #row_12 {
-    padding: 10% 15% 5%;
+    padding: 10% 15% 0;
     background: #fff;
 }
 #first-tension {
@@ -218,12 +218,21 @@ header {
     padding: 5% 0;
 }
 #row_13 {
-    padding: 0 15% 10%;
+    padding: 5% 15%;
     background: #fff;
 }
 #needs-goals {
     width: 60%;
     margin: 0 auto;
+}
+#row_14 {
+    padding: 2.5% 15% 10%;
+    background: #fff;
+}
+#img-iterate {
+    display: block;
+    width: 30%;
+    margin: 5% auto;
 }
 
 
