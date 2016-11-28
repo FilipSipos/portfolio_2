@@ -253,6 +253,10 @@ header {
     width: 30%;
     margin: 0 auto;
 }
+#row_18 {
+    padding: 0 15% 10%;
+    background: #fff;
+}
 
 /*footer*/
 footer {
