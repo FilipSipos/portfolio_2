@@ -255,6 +255,18 @@ p.bt {
     background: #fafafa;
     color: #000;
 }
+#sec_9 {
+    padding: 1% 5% 0.5%;
+    background: #fafafa;
+    color: #000;
+}
+#books {
+    width: 100%;
+}
+#sec_11 {
+    padding: 1% 5% 5%;
+}
+
 
 /*writings*/
 #date_selector {
