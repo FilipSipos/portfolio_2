@@ -212,30 +212,34 @@ p.bt {
 #sec_4 {
     margin-top: 5%;
 }
+#img-1 {
+    width: 100%;
+}
 .placeholder-4x3 {
-    width: 35%;
-    max-height: 100%;
+    width:40%;
+    /*height: 100%;*/
 }
 #sec_5 {
-    padding: 0 15%;
+    padding: 0 15% 5%;
 }
-#sec_6 {
-    overflow: auto;
-    padding: 0 15%;
+#sec_6, #sec_6b {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15% 0 0;
 }
-#img-2 {
-    display: inline;
-    float: left;
-    margin-right: 3%;
+#img-2, #img-4 {
+    margin-right: 10%;
 }
-#sec_7 {
-    overflow: auto;
-    padding: 0 15% 10%;
+#sec_7, #sec_7b {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    padding: 0 0 0 15%;
 }
-#img-3 {
-    display: inline;
-    float: right;
-    margin-left: 3%;
+#img-3, #img-5 {
+    margin-left: 10%;
 }
 #sec_8 {
     display: inline-block;
