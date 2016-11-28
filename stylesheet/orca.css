@@ -189,8 +189,22 @@ header {
     width: 100%;
 }
 #row_9 {
-    padding: 10% 15%;
+    padding: 10% 15% 5%;
     background: #fff;
+}
+#story-board {
+    padding: 5% 0;
+}
+#row_10 {
+    padding: 0 15% 10%;
+    background: #fff;
+    text-align: right;
+}
+#img-google {
+    display: inline;
+    float: left;
+    width: 25%;
+    padding-top: 5%;
 }
 /*footer*/
 footer {
