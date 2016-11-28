@@ -206,6 +206,16 @@ header {
     width: 25%;
     padding-top: 5%;
 }
+#row_11 {
+    padding: 0 !important;
+}
+#row_12 {
+    padding: 10% 15%;
+    background: #fff;
+
+}
+
+
 /*footer*/
 footer {
     position: relative;
