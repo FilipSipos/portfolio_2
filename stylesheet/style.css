@@ -159,7 +159,6 @@ a:hover {
 }
 .section {
     display: block;
-    border: 1px solid red;
     height: auto;
     width: 100%;
     margin: 0 auto;
@@ -213,6 +212,49 @@ p.bt {
 #sec_4 {
     margin-top: 5%;
 }
+.placeholder-4x3 {
+    width: 35%;
+    max-height: 100%;
+}
+#sec_5 {
+    padding: 0 15%;
+}
+#sec_6 {
+    overflow: auto;
+    padding: 0 15%;
+}
+#img-2 {
+    display: inline;
+    float: left;
+    margin-right: 3%;
+}
+#sec_7 {
+    overflow: auto;
+    padding: 0 15% 10%;
+}
+#img-3 {
+    display: inline;
+    float: right;
+    margin-left: 3%;
+}
+#sec_8 {
+    display: inline-block;
+    overflow: auto;
+    padding: 7% 15%;
+    text-align: center;
+}
+#email-button-2 {
+    width: 100%;
+    margin: 3% 0;
+    background: #000;
+    color: #fff;
+}
+#LinkedIn-button-2 {
+    width: 100%;
+    margin: 3% 0;
+    background: #fafafa;
+    color: #000;
+}
 
 /*writings*/
 #date_selector {
@@ -237,11 +279,14 @@ p.bt {
     padding-left: 15%;
 }
 .post {
-    background-color: white;
+    background-color: #fff;
     width: 80vw;
     margin: 3vh auto;
     max-width: 1300px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.callout {
+    background: #05FEFE !important;
 }
 .youtube {
     width: 100%;
