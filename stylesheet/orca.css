@@ -241,7 +241,18 @@ header {
 #row_15 {
     padding: 0;
 }
-
+#row_16 {
+    padding: 10% 15% 0;
+    background: #fff;
+}
+#row_17 {
+    padding: 5% 15%;
+    background: #fff;
+}
+#img-quote {
+    width: 30%;
+    margin: 0 auto;
+}
 
 /*footer*/
 footer {
