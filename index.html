@@ -191,7 +191,7 @@
             <div class="post callout-dark">
                 <div class="section" id="sec_18">
                 <h1 class="uppercase">Did you see my work yet?</h1>
-                    <a href="#" title="">
+                    <a class="button-link" id="port" href="#row_2" title="">
                         <div class="button" id="portfolio-button"><p class="bt uppercase">PORTFOLIO</p>
                         </div>
                     </a>
@@ -383,6 +383,15 @@
             $(rowId).show();
         });
 
+        $('.button-link').click(function(event){
+                    event.preventDefault();
+                    $('.top-nav>li>a').removeClass('selected');
+                    $('#port').addClass('selected');
+                    var rowId = $(this).attr('href');
+                    $('.row').hide();
+                    $(rowId).show();
+                });
+
         $('.top-nav>li>a').click(function(event) {
             $('#banner').hide('fast',function() {
                 //Animation complete.
@@ -391,6 +400,14 @@
 
         $('#port').click(function(event){
             $('#lines_2').show();
+        });
+
+        $('.button-link').click(function(event){
+            $('#lines_2').show();
+        });
+
+        $(".button-link").click(function() {
+            $('html, body').animate({ scrollTop: $("#logo").offset().top }, 2000);
         });
 
         $("#logo").click(function() {
