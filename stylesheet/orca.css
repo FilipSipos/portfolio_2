@@ -234,6 +234,10 @@ header {
     width: 30%;
     margin: 5% auto;
 }
+#img-wires {
+    padding: 0;
+    width: 100%;
+}
 
 
 /*footer*/
